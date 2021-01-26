@@ -10,3 +10,13 @@ let jamFour =songs[3];
 songs.push("africa")
 
 songs.unshift("salad days")
+ 
+songs.pop();
+
+for (i = 0; i < 4; i++) {
+ i, songs[i];
+}
+
+let lastSong(
+    songs.length
+)
